@@ -1,5 +1,5 @@
 # Look at this cat
 
-![cute pic](http://placekitten.com/200)
+![cute pic](https://placekitten.com/200)
 
 
